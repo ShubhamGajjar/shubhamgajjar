@@ -1,11 +1,23 @@
-<h2 align="left">Hi 👋! My name is Shubham Gajjar and I'm a AI/ML Dev, from India.</h2>
+<h2 align="left">Hi 👋! My name is Shubham Gajjar and I'm an AI/ML Developer from India.</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamGajjar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ShubhamGajjar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamGajjar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamGajjar&theme=dracula&area=false&bg_color=282a36&title_color=e16489&radius=5&hide_border=true&custom_title=Contribution%20Graph" height="150" alt="activity-graph graph"  />
 </div>
+
+###
+
+### About Me
+
+Hey there! I'm Shubham, an AI/ML enthusiast with a knack for solving complex problems using Python. Right now, I'm diving deep into Deep Learning. I love the challenge and excitement that comes with working on CNNs and cutting-edge AI tech.
+
+When I'm not coding, you can find me watching Formula 1 races or exploring new AI projects. I'm keen on contributing to open-source projects and connecting with like-minded developers.
+
+I'm currently working on a research paper, so stay tuned for updates. Let's connect and build something amazing together!
 
 ###
 
@@ -29,6 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
 ###
@@ -49,7 +67,7 @@
   <a href="https://www.twitch.tv/implizi7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="shubhamkgajjar2002@gmail.com" target="_blank">
+  <a href="mailto:shubhamkgajjar2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
