@@ -13,7 +13,7 @@
 
 ### About Me
 
-Hey there! I'm Shubham, an AI/ML enthusiast with a knack for solving complex problems using Python. Right now, I'm diving deep into Deep Learning. I love the challenge and excitement that comes with working on CNNs and cutting-edge AI tech.
+Hey there! I'm Shubham Gajjar, an AI/ML enthusiast with a knack for solving complex problems using Python. Right now, I'm diving deep into Deep Learning. I love the challenge and excitement that comes with working on CNNs and cutting-edge AI tech.
 
 When I'm not coding, you can find me watching Formula 1 races or exploring new AI projects. I'm keen on contributing to open-source projects and connecting with like-minded developers.
 
