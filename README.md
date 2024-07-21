@@ -82,6 +82,6 @@ I'm currently working on a research paper, so stay tuned for updates. Let's conn
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ShubhamGajjar/ShubhamGajjar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShubhamGajjar/ShubhamGajjar/output/snake.sg" alt="Snake animation" />
 
 ###
