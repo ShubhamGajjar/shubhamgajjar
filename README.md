@@ -15,7 +15,7 @@
 
 Hey there! I'm Shubham Gajjar, an AI/ML enthusiast with a knack for solving complex problems using Python. Right now, I'm diving deep into Deep Learning. I love the challenge and excitement that comes with working on CNNs and AI tech.
 
-When I'm not coding, you can find me on discord watching Formula 1 races or exploring new AI projects. I'm keen on contributing to open-source projects and connecting with like-minded developers.
+When I'm not coding, you can find me on Discord watching Formula 1 races or exploring new AI projects. I'm keen on contributing to open-source projects and connecting with like-minded developers.
 
 I'm currently working on a research paper, so stay tuned for updates. Let's connect and build something amazing together!
 
