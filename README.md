@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shubham Gajjar and I'm an AI/ML Developer from India.</h2>
+<h2 align="left">Hi 👋! My name is Shubham Gajjar and I'm an AI/ML Developer.</h2>
 
 ###
 
