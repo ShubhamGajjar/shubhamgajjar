@@ -79,8 +79,7 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamGajjar&show_icons=true&theme=default&hide_border=true&border_radius=8" alt="GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamGajjar&layout=compact&langs_count=6&theme=default&hide_border=true&border_radius=8" alt="Top languages" width="400" />
+  <img src="images/github-stats.svg" alt="GitHub stats &amp; languages" width="100%" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ShubhamGajjar&theme=default&hide_border=true&border_radius=8" alt="Streak" width="400" />
