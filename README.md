@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Shubham Gajjar</h1>
   <p><b>AI/ML · Computer Vision · Deep Learning</b></p>
-  <p>M.S. Artificial Intelligence @ Northeastern University • Portland, Maine</p>
+  <p>M.S. Artificial Intelligence @ Northeastern University • USA</p>
   <p>
     <a href="https://shubhamgajjar.dev"><b>Website</b></a> •
     <a href="mailto:gajjar.shu@northeastern.edu"><b>Email</b></a> •
