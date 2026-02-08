@@ -76,18 +76,6 @@
 
 ---
 
-## Stats
-
-<div align="center">
-  <img src="images/github-stats.svg" alt="GitHub stats &amp; languages" width="100%" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShubhamGajjar&theme=default&hide_border=true&border_radius=8" alt="Streak" width="400" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamGajjar&theme=github&hide_border=true&radius=8&area=true" alt="Activity" width="400" />
-</div>
-
----
-
 ## Links
 
 <div align="center">
