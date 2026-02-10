@@ -83,8 +83,6 @@
 [![Website](https://img.shields.io/badge/Website-shubhamgajjar.dev-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](https://shubhamgajjar.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-implici7-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/implici7)
 [![Email](https://img.shields.io/badge/Email-gajjar.shu%40northeastern.edu-6366f1?style=flat-square&logo=gmail&logoColor=white)](mailto:gajjar.shu@northeastern.edu)
-[![YouTube](https://img.shields.io/badge/YouTube-Implici7-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Implici7)
-[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/GuSmknCBeE)
 
 </div>
 
