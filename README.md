@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Shubham Gajjar</h1>
-  <p><b>AI/ML · Computer Vision · Deep Learning</b></p>
+  <p><b>AI/ML · Computer Vision · Deep Learning · Biomedical AI · Medical imaging</b></p>
   <p>M.S. Artificial Intelligence @ Northeastern University • USA</p>
   <p>
     <a href="https://shubhamgajjar.dev"><b>Website</b></a> •
