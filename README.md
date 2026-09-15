@@ -5,7 +5,7 @@
   <p>
     <a href="https://shubhamgajjar.dev"><b>Website</b></a> •
     <a href="mailto:gajjar.shu@northeastern.edu"><b>Email</b></a> •
-    <a href="https://linkedin.com/in/implici7"><b>LinkedIn</b></a>
+    <a href="https://www.linkedin.com/in/shubhamgajjar/"><b>LinkedIn</b></a>
   </p>
 </div>
 
