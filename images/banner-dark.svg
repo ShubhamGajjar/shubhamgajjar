@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Shubham Gajjar: vision-language models for biomedical imaging">
+  <style>
+    .scan { animation: scan 6s ease-in-out -3s infinite alternate; }
+    .box { animation: pulse 3.2s ease-in-out infinite; }
+    @keyframes scan { from { transform: translateX(0); } to { transform: translateX(250px); } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.45; } }
+    @media (prefers-reduced-motion: reduce) { .scan, .box { animation: none; } }
+  </style>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#21262d"/></pattern>
+    <clipPath id="fov"><circle cx="1010" cy="150" r="128"/></clipPath>
+    <linearGradient id="trail" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#39c5e0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#39c5e0" stop-opacity="0.28"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="298" rx="14" fill="url(#dots)"/>
+
+  <text x="64" y="94" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="2" fill="#8b949e">RESEARCH ASSISTANT · ROUX INSTITUTE, NORTHEASTERN</text>
+  <text x="62" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-1.5" fill="#e6edf3">Shubham Gajjar</text>
+  <text x="64" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="28" fill="#e6edf3">Vision-language models for <tspan fill="#39c5e0" font-weight="600">biomedical imaging</tspan></text>
+  <text x="64" y="252" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#8b949e">MS Artificial Intelligence '27  ·  Portland, Maine</text>
+
+  <circle cx="1010" cy="150" r="137" fill="none" stroke="#30363d" stroke-width="1"/>
+  <g clip-path="url(#fov)">
+    <rect x="882" y="22" width="256" height="256" fill="#1b1420"/>
+      <circle cx="930" cy="80" r="15" fill="#b45a7c" fill-opacity="0.75"/><circle cx="930" cy="80" r="6.3" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="968" cy="58" r="14" fill="#b45a7c" fill-opacity="0.75"/><circle cx="968" cy="58" r="5.9" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="1010" cy="70" r="15" fill="#b45a7c" fill-opacity="0.75"/><circle cx="1010" cy="70" r="6.3" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="1052" cy="80" r="14" fill="#b45a7c" fill-opacity="0.75"/><circle cx="1052" cy="80" r="5.9" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="1092" cy="108" r="15" fill="#b45a7c" fill-opacity="0.75"/><circle cx="1092" cy="108" r="6.3" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="912" cy="128" r="14" fill="#b45a7c" fill-opacity="0.75"/><circle cx="912" cy="128" r="5.9" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="948" cy="160" r="14" fill="#b45a7c" fill-opacity="0.75"/><circle cx="948" cy="160" r="5.9" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="915" cy="192" r="15" fill="#b45a7c" fill-opacity="0.75"/><circle cx="915" cy="192" r="6.3" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="952" cy="228" r="14" fill="#b45a7c" fill-opacity="0.75"/><circle cx="952" cy="228" r="5.9" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="995" cy="212" r="15" fill="#b45a7c" fill-opacity="0.75"/><circle cx="995" cy="212" r="6.3" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="1035" cy="250" r="14" fill="#b45a7c" fill-opacity="0.75"/><circle cx="1035" cy="250" r="5.9" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="1120" cy="150" r="13" fill="#b45a7c" fill-opacity="0.75"/><circle cx="1120" cy="150" r="5.5" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="1050" cy="140" r="13" fill="#b45a7c" fill-opacity="0.75"/><circle cx="1050" cy="140" r="5.5" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="980" cy="262" r="13" fill="#b45a7c" fill-opacity="0.75"/><circle cx="980" cy="262" r="5.5" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="890" cy="215" r="14" fill="#b45a7c" fill-opacity="0.75"/><circle cx="890" cy="215" r="5.9" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="1130" cy="70" r="14" fill="#b45a7c" fill-opacity="0.75"/><circle cx="1130" cy="70" r="5.9" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="1125" cy="238" r="14" fill="#b45a7c" fill-opacity="0.75"/><circle cx="1125" cy="238" r="5.9" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="885" cy="95" r="13" fill="#b45a7c" fill-opacity="0.75"/><circle cx="885" cy="95" r="5.5" fill="#d78aa6" fill-opacity="0.8"/>
+      <circle cx="1000" cy="145" r="27" fill="#8e7bb8" fill-opacity="0.55"/>
+      <circle cx="992" cy="140" r="9" fill="#7c5cd6" fill-opacity="0.9"/>
+      <circle cx="1005" cy="147" r="10" fill="#7c5cd6" fill-opacity="0.9"/>
+      <circle cx="997" cy="156" r="8" fill="#7c5cd6" fill-opacity="0.9"/>
+      <circle cx="1080" cy="205" r="22" fill="#8e7bb8" fill-opacity="0.55"/>
+      <circle cx="1075" cy="201" r="8" fill="#7c5cd6" fill-opacity="0.9"/>
+      <circle cx="1086" cy="209" r="8" fill="#7c5cd6" fill-opacity="0.9"/>
+    <g class="scan"><rect x="842" y="22" width="42" height="256" fill="url(#trail)"/><rect x="883" y="22" width="2" height="256" fill="#39c5e0" fill-opacity="0.8"/></g>
+  </g>
+  <circle cx="1010" cy="150" r="128" fill="none" stroke="#30363d" stroke-width="2"/>
+    <g class="box" style="animation-delay:0.0s"><rect x="968" y="113" width="64" height="64" fill="none" stroke="#39c5e0" stroke-width="2"/><rect x="967" y="96" width="77" height="17" fill="#39c5e0"/><text x="972" y="108.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="600" fill="#0d1117">cell 0.97</text></g>
+    <g class="box" style="animation-delay:0.6s"><rect x="1053" y="178" width="54" height="54" fill="none" stroke="#39c5e0" stroke-width="2"/><rect x="1052" y="161" width="77" height="17" fill="#39c5e0"/><text x="1057" y="173.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="600" fill="#0d1117">cell 0.94</text></g>
+    <g class="box" style="animation-delay:1.2s"><rect x="935" y="211" width="34" height="34" fill="none" stroke="#39c5e0" stroke-width="2"/><rect x="934" y="194" width="69" height="17" fill="#39c5e0"/><text x="939" y="206.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="600" fill="#0d1117">rbc 0.99</text></g>
+</svg>
